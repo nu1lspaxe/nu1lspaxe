@@ -1,4 +1,4 @@
-## Hi 👋 I'm Nu1LSpaxe
+## Hi 👋 I'm Erica Lin
 
 ## :thought_balloon: About me
 
