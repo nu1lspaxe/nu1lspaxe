@@ -1,4 +1,4 @@
-## Hi 👋 I'm Erica Lin
+## Hi 👋 I'm Erica
 
 ## :thought_balloon: About me
 
