@@ -7,8 +7,8 @@
 - :globe_with_meridians: Passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
 - :mechanical_arm: Enjoy collaborating with teammates in hackathons and exciting projects
 - :bug: A good self-learner having an appetite for knowledge and well problem-solving ability
-- 💻 [Leetcode](https://leetcode.com/nu1lspaxe/)
-- 🦊 [GitLab](https://gitlab.com/nu1lspaxe)
+- 💻 [Leetcode](
+https://leetcode.com/nu1lspaxe/)
 - 🪟 [My Website](https://nu1lspaxe.github.io/)
 
 ---
