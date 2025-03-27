@@ -3,8 +3,8 @@
 ## :thought_balloon: About me
 
 - :technologist: A backend developer 
-- :sparkles: With experience in building full-stack websites, servers, smart contracts and machine learning 
-- :globe_with_meridians: Passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
+- :sparkles: With experience in building full-stack websites, mobile apps, game servers, devops, and several hackathons
+- :globe_with_meridians: Passionate about new technologies, including web development, mobile application, AI, cloud, and blockchain, etc.
 - :mechanical_arm: Enjoy collaborating with teammates in hackathons and exciting projects
 - :bug: A good self-learner having an appetite for knowledge and well problem-solving ability
 - 💻 [Leetcode](
@@ -16,11 +16,7 @@ https://leetcode.com/nu1lspaxe/)
 ## :seedling: Skill Tree
 
 ### :octocat: Languages
-[![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,js,ts,py)](https://skillicons.dev)
-
-### :hammer_and_pick: Tookits
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,kubernetes,docker,grafana,prometheus,nginx,git,gitlab,github,githubactions,gcp,vercel,ansible,terraform,jenkins,postman,spring,gradle,express,react,redux,jest,bootstrap,vite,npm,pnpm,fastapi,flask,visualstudio,vscode,linux,vim,bash,notion,md,latex)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,java,flutter,nodejs,ts,py)](https://skillicons.dev)
 
 ## :bar_chart: Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight&hide=Jupyter%20Notebook,css,scss,html&exclude_repo=)
@@ -38,4 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### :hammer_and_pick: Tookits
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,kubernetes,docker,grafana,prometheus,nginx,git,gitlab,github,githubactions,gcp,vercel,ansible,terraform,jenkins,postman,spring,gradle,express,react,redux,jest,bootstrap,vite,npm,pnpm,fastapi,flask,visualstudio,vscode,linux,vim,bash,notion,md,latex)](https://skillicons.dev)
 -->
