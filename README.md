@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,java,flutter,nodejs,ts,py)](https://skillicons.dev)
 
 ## :bar_chart: Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight&hide=Jupyter%20Notebook,css,scss,html&exclude_repo=)
+
 
 <!--
 **Nu1LSpaxe/Nu1LSpaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +36,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_pick: Tookits
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,kubernetes,docker,grafana,prometheus,nginx,git,gitlab,github,githubactions,gcp,vercel,ansible,terraform,jenkins,postman,spring,gradle,express,react,redux,jest,bootstrap,vite,npm,pnpm,fastapi,flask,visualstudio,vscode,linux,vim,bash,notion,md,latex)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight&hide=Jupyter%20Notebook,css,scss,html&exclude_repo=)
+
 -->
