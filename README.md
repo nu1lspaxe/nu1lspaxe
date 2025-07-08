@@ -3,7 +3,6 @@
 ## :thought_balloon: About me
 
 - :technologist: A backend developer 
-- :sparkles: With experience in building full-stack websites, mobile apps, game servers, devops, and several hackathons
 - :globe_with_meridians: Passionate about new technologies
 - :mechanical_arm: Enjoy collaborating with teammates in hackathons and exciting projects
 - :bug: A good self-learner having an appetite for knowledge and well problem-solving ability
