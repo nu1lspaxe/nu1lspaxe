@@ -6,7 +6,7 @@
 - :globe_with_meridians: Passionate about new technologies
 - :bug: A good self-learner having an appetite for knowledge and well problem-solving ability
 - 🗺️ [Blog](https://nu1lspaxe.github.io/)
-- 🌈 [Google Cloud](https://www.cloudskillsboost.google/public_profiles/b9d5f3b4-009d-4217-8266-4de33fa44250)
+- 🌈 [Credly](https://www.credly.com/users/erica-lin.285c3f9b)
 
 ---
 
