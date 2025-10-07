@@ -13,7 +13,6 @@
 ## :seedling: Skill Tree
 
 ### :octocat: Languages
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,py)](https://skillicons.dev)
 
 ## :bar_chart: Github Stats
 
